@@ -1,0 +1,21 @@
+header {
+  border-bottom: 1px solid #00000036;
+  display: flex;
+  align-items: center;
+}
+
+header > div {
+  margin: 30px 50px;
+  display: flex;
+  align-items: center;
+}
+
+header span {
+  font-size: 35px;
+  margin-left: 30px;
+}
+
+.main-logo {
+  color: #5c48d3;
+  font-size: 60px;
+}
